@@ -1,0 +1,148 @@
+body
+{
+	background-color:#DEAE5B;
+	font-family:sans-serif;
+	font-size:100%;
+}
+
+h1
+{
+	font-size:2.5em;
+	border-bottom:1px solid black;
+}
+
+h3
+{
+	border-bottom:1px solid black;
+	padding-left:10px;
+}
+
+p
+{
+	padding-left:10px;
+}
+p.thicker
+{
+	font-weight:bold;
+}
+
+a.navi
+{
+	margin-right:5px;
+}
+#wrapper
+{
+	font:100%;
+	width:800px;
+	background:#BDB8AF;
+	margin:10px auto;
+	padding: 5px;
+	border: 2px solid #CCC;
+}
+
+#header
+{
+	font-size:250%;
+	font-family: 'Montserrat Alternates', sans-serif;
+	text-align:center;
+}
+
+#nav
+{
+	font-size:115%;
+	background-color:#E3DBCC;
+	border:3px solid #38280A;
+	padding-left:15px;
+}
+a{
+padding-left:10px;
+}
+/* unvisited link */
+a:link 
+{
+    color: #A3A3CC;
+}
+
+/* visited link */
+a:visited 
+{
+    color: #944D4D;
+}
+
+/* mouse over link */
+a:hover
+{
+    color: #FF0000;
+}
+
+/* selected link */
+a:active 
+{
+    color: #0000FF;
+}
+
+#part1
+{
+	margin-top:5px;
+	
+	background-color:#E3DBCC;
+	border:3px solid #38280A;
+}
+
+#part2
+{
+	margin-top:5px;
+	background-color:#E3DBCC;
+	border:3px solid #38280A;
+}
+
+#part3
+{
+	margin-top:5px;
+	/*padding-left:10px;*/
+	background-color:#E3DBCC;
+	
+}
+
+#footer
+{
+	margin-top:5px;
+	border:3px solid #38280A;
+	background-color:#E3DBCC;
+	font-size:.65em;
+	text-align:center;
+}
+dt
+{
+	font-weight:bold;
+}
+
+.fltleft
+{
+	float:left;
+	margin: 5px 10px;
+}
+
+.fltright
+{
+	float:right;
+	margin: 5px 10px;
+}
+
+table
+{
+	border:1px solid #000;
+}
+th
+{
+	border:1px solid #000;
+}
+tr
+{
+	border:1px solid #000;
+}
+td
+{
+	border:1px solid #000;
+}
+
