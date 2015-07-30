@@ -4,4 +4,4 @@ A website I created for my HTML class at Cogswell Polytechnical College. Coded f
 It includes some basic information about me and my projects from Cogswell. 
 
 
-To view as a webpage: Please navigate to <a href="pbatley.ddns.net" target="blank">pbatley.ddns.net</a> to view this webpage on my home built server.
+To view as a webpage: Please navigate to <a href="http://pbatley.ddns.net" target="blank">pbatley.ddns.net</a> to view this webpage on my home built server.
